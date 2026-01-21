@@ -275,3 +275,5 @@ Contribuições são sempre bem-vindas! Para contribuir:
 - 🔄 v1.2.0 - Implementar filtros e busca
 - 🔄 v1.3.0 - Sistema de autenticação
 - 🔄 v2.0.0 - Backend completo com banco de dados
+
+Feito com ❤️ e ☕
