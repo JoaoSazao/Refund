@@ -261,8 +261,8 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 **SazonDEV**
 
-- GitHub: [@seu-usuario](https://github.com/JoaoSazao)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/joao-victor-sa/)
+- GitHub: [@JoaoSazao](https://github.com/JoaoSazao)
+- LinkedIn: [João Victor Santos](https://www.linkedin.com/in/joao-victor-sa/)
 - Email: jv.sadev.profissional@gmail.com
 
 ## 📊 Status do Projeto
