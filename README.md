@@ -24,14 +24,6 @@ Refund é uma aplicação web para registro e controle de despesas que necessita
 - ✅ **Interface Responsiva** - Design adaptável para todos os dispositivos
 - ✅ **Validação de Formulário** - Campos obrigatórios e validação de dados
 
-## 🚀 Demonstração
-
-### Interface Principal
-![Desktop Preview](https://via.placeholder.com/800x400/0066FF/FFFFFF?text=Refund+Desktop+Preview)
-
-### Adicionando Despesa
-![Add Expense](https://via.placeholder.com/600x300/0066FF/FFFFFF?text=Adicionar+Despesa)
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica e acessível
